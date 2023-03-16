@@ -7,7 +7,6 @@
 
 <div style="display: inline_block"><br>
 </div>
-<hr>
 <div>
  <a href="https://github.com/Marcelo914">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo914&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
