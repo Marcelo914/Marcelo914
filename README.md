@@ -3,7 +3,6 @@
 -- Infelizmente ainda não estou atuando na área <br>
 -- Cursando Engenharia de Software na UNICEPLAC <br>
 -- No tempo livre/descanso gosto jogar ou assistir algum anime <br>
--- No pain, No gain <br>
 </div>
 
 
