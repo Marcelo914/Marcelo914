@@ -2,11 +2,11 @@
 <div style="display: inline_block"><br>
 -- Infelizmente ainda não estou atuando na área <br>
 -- Cursando Engenharia de Software na UNICEPLAC <br>
--- No tempo livre/descanso gosto jogar ou assistir algum anime
+-- No tempo livre/descanso gosto jogar ou assistir algum anime <br>
+-- No pain, No gain <br>
 </div>
 
 
---"Trabalhe com o que você ama e nunca mais vai amar nada"
 <div style="display: inline_block"><br>
 </div>
 <div>
