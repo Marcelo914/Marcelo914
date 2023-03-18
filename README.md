@@ -1,8 +1,9 @@
-### Olá! meu nome é Marcelo
+### Olá! meu nome é Marcelo 👻
+##
+
 <div style="display: inline_block"><br>
--- Infelizmente ainda não estou atuando na área <br>
--- Cursando Engenharia de Software na UNICEPLAC <br>
--- No tempo livre/descanso gosto jogar ou assistir algum anime <br>
+ --Buscando aprender mais a cada dia <br>
+-- Cursando Engenharia de Software <br>                                            
 </div>
 
 
