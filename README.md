@@ -1,8 +1,7 @@
-### Olá! meu nome é Marcelo 👻
+### Olá 👋
 ##
 
 <div style="display: inline_block"><br>
--- Buscando aprender mais a cada dia<br>
 -- Cursando Engenharia de Software <br>                                            
 </div>
 
